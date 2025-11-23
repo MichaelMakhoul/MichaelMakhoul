@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MichaelMakhoul
 - 👀 I’m interested in application and website development  
-- 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on building some awesome apps 
 - 📫 How to reach me michaelmakhoul0@gmail.com is my email address
 
